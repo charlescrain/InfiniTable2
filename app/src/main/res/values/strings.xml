@@ -7,4 +7,5 @@
     <string name="title_activity_sleep">Sleep</string>
     <string name="title_activity_music">MusicActivity</string>
     <string name="title_activity_demo">DemoActivity</string>
+    <string name="title_activity_bluetooth">Bluetooth</string>
 </resources>
